@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="tienda_la_benci_n">Tienda la Bención</string>
+    <string name="todo">TODO</string>
+    <string name="mostrar_men">Mostrar Menú</string>
+    <string name="mostrar_pedido">Mostrar Pedido</string>
+</resources>
